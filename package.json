@@ -1,0 +1,22 @@
+{
+  "name": "modulec7_homework",
+  "version": "1.0.0",
+  "description": "modulec7_homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhArtem/moduleC7_homework.git"
+  },
+  "author": "ArtemZhoglo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhArtem/moduleC7_homework/issues"
+  },
+  "homepage": "https://github.com/ZhArtem/moduleC7_homework#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
